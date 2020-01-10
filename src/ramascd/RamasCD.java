@@ -18,6 +18,7 @@ public class RamasCD {
         // TODO code application logic here
         System.out.println("HOLA K ASEEEE");
         //Comentario generico jajajajajaj
+        System.out.println("Cambiando master");
     }
     
 }
